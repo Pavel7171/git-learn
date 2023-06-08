@@ -8,5 +8,8 @@ public class Main2 {
         test(this.a);     
 
     }
+    void test2(){
+        System.out.println("bye");
+    }
 
 }
